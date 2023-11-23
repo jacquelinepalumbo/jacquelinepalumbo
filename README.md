@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Jacque+Palumbo....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -44,18 +42,15 @@ Here are some ideas to get you started:
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
- 
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Power BI" height="25" src="[images/powerbi.png](https://i1.wp.com/santebf.net/wp-content/uploads/2019/12/Power_BI.png?fit=1000%2C1000&ssl=1)"></code>
+  <code><img title="Microsoft Power BI" height="25" src="imagespowerbi.png"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  
 </p>
 <hr>
 
