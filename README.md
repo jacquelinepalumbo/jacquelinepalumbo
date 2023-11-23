@@ -35,9 +35,9 @@ Here are some ideas to get you started:
   💬 I love learning new things and  And I'm a super adaptive person
   <br>
    💻I’m currently learning Power BI. 
-  <br>
-  
+  <br>  
   📫 How to reach me: <a href="mailto: jacque.palumbo41@gmail.com">jacque.palumbo41@gmail.com</a>
+  <br> 
 </p>
 
 <hr>
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Power BI" height="25" src="images/powerbi.png"></code>
+  <code><img title="Microsoft Power BI" height="25" src="[images/powerbi.png](https://i1.wp.com/santebf.net/wp-content/uploads/2019/12/Power_BI.png?fit=1000%2C1000&ssl=1)"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   
