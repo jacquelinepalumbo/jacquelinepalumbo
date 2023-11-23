@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 </h1>
 
 <br>
+
 <p align="center">
   Hi, I'm Jacqueline Palumbo. I'm looking for an opportunity as a data analyst.
   <br>
@@ -33,26 +34,26 @@ Here are some ideas to get you started:
   💬 I love learning new things and  And I'm a super adaptive person
   <br>
    💻I’m currently learning Power BI. 
-  <br>  
+  <br> 
   📫 How to reach me: <a href="mailto: jacque.palumbo41@gmail.com">jacque.palumbo41@gmail.com</a>
   <br> 
 </p>
 
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Power BI" height="25" src="imagespowerbi.png"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-</p>
-<hr>
+
+
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://th.bing.com/th/id/OIP.dJToM1TiZiJA0GYwzDHwjQHaHY?rs=1&pid=ImgDetMain" style="padding-right:10px;" />
+<img align="left" alt="PowerBI" width="26px" src="https://i1.wp.com/santebf.net/wp-content/uploads/2019/12/Power_BI.png?fit=1000%2C1000&ssl=1" style="padding-right:10px;" />
+<img align="left" alt="Excel" width="26px" src="https://th.bing.com/th/id/OIP.aCpcPok6nvkdSH5Yk1nQMgHaHa?rs=1&pid=ImgDetMain" style="padding-right:10px;" />
+<img align="left" alt="Colab" width="26px" src="https://th.bing.com/th/id/OIP.IhMe7cIkZYMnXMA54KIfIgEsCo?rs=1&pid=ImgDetMain" style="padding-right:10px;" />
+
+
 
 
 <!--
